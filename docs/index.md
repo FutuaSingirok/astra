@@ -1,18 +1,59 @@
 
 
-## Directions for travel 
-
+*Directions for travel*
 
 
 !!! note "Guidelines"
 
     I should give careful thought as to what I write here. This is to be a guiding light on my journey through life. 
 
+--- 
 
-#### Areas for Development 
+## Areas for Development 
 
-:material/hands-pray: I need to be heavenly minded. 
+### Spiritual 
 
+- Prayer 
+- Bible Study 
+- Fellowship 
+- Tithing 
+- Soul Winning 
+
+
+
+
+### Intellectual 
+
+### Physical 
+
+### Financial 
+
+### Social 
+
+### Professional 
+
+### Projects 
+
+
+##
+
+
+
+
+
+:material/hands-pray I need to be heavenly minded. 
+
+:smile:
+
+:fontawesome-regular-fact-laugh-wink:
+
+--- 
+
+##### Spiritual 
+
+Prayer, Bible Study and Fellowship for instance.
+
+--- 
 
 
 * `mkdocs new [dir-name]` - Create a new project.
