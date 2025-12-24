@@ -1,0 +1,12 @@
+:root {
+  --md-text-font-size: 0.4rem;
+  --md-code-font-size: 0.6rem;
+}
+
+.article-left-image {
+  float: left;
+  width: 120px;
+  margin: 0.25rem 1.25rem 1rem 0;
+  border-radius: 4px;
+}
+

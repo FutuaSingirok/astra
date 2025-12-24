@@ -2,19 +2,32 @@
 
 *Directions for travel*
 
-
-!!! note "Guidelines"
-
-    I should give careful thought as to what I write here. This is to be a guiding light on my journey through life. 
-
 --- 
 
-## Areas for Development 
+<img src="../assets/images/futua.jpg" class="article-left-image" alt="Author">
 
-### Spiritual 
+**God willing and I live** these are some of the ideas for personal development that I have. I want to track these and hopefully progress in these areas. 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+---  
 
-- Prayer 
-- Bible Study 
+
+### Areas for Development 
+
+#### Spiritual 
+
+*Prayer*
+
+Prayer is communion with God Almighty. This is a privilege that we as Christians have, to speak with the creator of the Universe. 
+
+*Bible Study*
+
+God, speaks to us through his Holy Word. In English, this is the King James Version 1611. I would want to have multiple translations in other languages, in particular in *French*, *German*, *Spanish*, *Greek* for the New Testament and *Hebrew* for the Old Testament. Additionally I'd like Motu, Sinaugoro and Tuaripi versions as well. 
+
 - Fellowship 
 - Tithing 
 - Soul Winning 
@@ -22,100 +35,25 @@
 
 
 
-### Intellectual 
+#### Intellectual 
 
-### Physical 
+#### Physical 
 
-### Financial 
+#### Financial 
 
-### Social 
+#### Social 
 
-### Professional 
+#### Professional 
 
-### Projects 
-
-
-##
+#### Projects 
 
 
 
 
 
-:material/hands-pray I need to be heavenly minded. 
+!!! note "Guidelines"
 
-:smile:
-
-:fontawesome-regular-fact-laugh-wink:
-
---- 
-
-##### Spiritual 
-
-Prayer, Bible Study and Fellowship for instance.
-
---- 
-
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-
-
-
-# Function to add two numbers
-    def add_two_numbers(num1, num2):
-     return num1 + num2
-
-# Example usage
-result = add_two_numbers(5, 3)
-print('The sum is:', result)
-
-
-```py title="add_numbers.py" 
-# Function to add two numbers
-def add_two_numbers(num1, num2):
-    return num1 + num2
-
-# Example usage
-result = add_two_numbers(5, 3)
-print('The sum is:', result)
-```
-
-
-
-
-## Content Tabs
-
-This is some examples of content tabs.
-
-### Generic Content
-
-=== "Plain text"
-
-    This is some plain text
-
-=== "Unordered list"
-
-    * First item
-    * Second item
-    * Third item
-
-=== "Ordered list"
-
-    1. First item
-    2. Second item
-    3. Third item
-
-
-
+    I should give careful thought as to what I write here. This is to be a guiding light on my journey through life. 
 
 
 
