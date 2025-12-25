@@ -13,6 +13,7 @@
 <br> 
 <br> 
 <br> 
+<br> 
 ---  
 
 
@@ -20,31 +21,79 @@
 
 #### Spiritual 
 
-*Prayer*
+- **Prayer** 
+    - Prayer Journal with thanksgiving and requests to God. 
 
-Prayer is communion with God Almighty. This is a privilege that we as Christians have, to speak with the creator of the Universe. 
+- **Bible Study**  
+    - King James Version (Calf Skin) English version. I also want *French* and New Testament *Koine Greek* versions. 
+    - Other things I want are: German and Spanish versions of the New Testament and full bible in Motu, Sinaugoro and Toaripi. 
 
-*Bible Study*
+- **Fellowship**
+    - Fellowship at *Munibine Baptist Church*  on Sundays 
+    - Prayer Meeting at *Munibine Baptist Church* on Wedn
 
-God, speaks to us through his Holy Word. In English, this is the King James Version 1611. I would want to have multiple translations in other languages, in particular in *French*, *German*, *Spanish*, *Greek* for the New Testament and *Hebrew* for the Old Testament. Additionally I'd like Motu, Sinaugoro and Tuaripi versions as well. 
+- **Tithing**
+    - 10% of salary for tithing 
 
-- Fellowship 
-- Tithing 
 - Soul Winning 
+    - Give the Gospel to all my family members and friends. 
 
+--- 
 
 
 
 #### Intellectual 
 
+
+##### Classical Education 
+
+- **Philosophy** 
+    
+       Political philosophy studies how political authority is justified and limited, how law and power relate to justice, and how societies should balance order, liberty, equality, and property, moving from foundational questions about the state and human nature to debates over rights, sovereignty, democracy, and obligation.
+
+      
+     A structured approach typically begins with classical foundations in **Plato** and **Aristotle**, develops through early-modern theories of sovereignty and the social contract in **Thomas Hobbes**, **John Locke**, and **Jean-Jacques Rousseau**, and then branches into modern tradition: republicanism (**Niccolò Machiavelli**, **Philip Pettit**), liberalism (**John Stuart Mill**, **John Rawls**), conservatism (**Edmund Burke**, **Michael Oakeshott**), socialism and communism (**Karl Marx**, **Friedrich Engels**), and libertarianism (<a href="./Intellectual/">**Hayek**</a>, **Robert Nozick**), alongside rigorous analyses of authority, legitimacy, and the state by thinkers such as **Max Weber**, **Hannah Arendt**, and **Carl Schmitt**.
+
+
+
+
+##### Professional Education 
+
+  - Mathematics 
+  - Economics 
+  - Finance 
+  - Accounting 
+  
+  - **Programming**
+    - Python
+    - SQL 
+    - Shell Scripting (Bash / PowerShell)
+    - R 
+    - Rust 
+    - TypeScript 
+
+
+--- 
+
+
 #### Physical 
+
+
+--- 
 
 #### Financial 
 
+
+--- 
 #### Social 
 
+
+
+--- 
 #### Professional 
 
+
+--- 
 #### Projects 
 
 
