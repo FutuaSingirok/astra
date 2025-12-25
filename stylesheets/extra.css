@@ -1,0 +1,67 @@
+
+
+/* White canvas */   
+
+
+:root {
+  --md-default-bg-color: #ffffff;
+  --md-default-fg-color: #000000;
+  --md-default-fg-color--light: #111111;
+
+  /* Classic link blue */   
+  --md-typeset-a-color: #0000ee;
+
+  /* Make code less "styled" (optional) */ 
+  --md-code-bg-color: #f6f6f6;
+
+}
+
+
+.article-left-image {
+  float: left;
+  width: 120px;
+  margin: 0.25rem 1rem 1rem 0;
+  border-radius: 4px; 
+}
+
+
+/* Keep body typography clean and unembellished */    
+.md-typset {
+    line-height: 1.6; 
+  }
+
+
+  /* Links: blue + underline like classic HTML */ 
+ .md-typeset a {
+   color: #3a6ea5; /* soft light blue */ 
+   text-decoration: underline;
+ } 
+
+ /* Visited links (optional, slightly muted) */ 
+.md-typeset a:visited {
+  color: #5a7fa6 
+}
+ 
+ .md-typset a:hover {
+   text-decoration-thickness: 2px;
+ }
+
+ /* Reduce excessive visual styling */ 
+ .md-header,
+ .md-tabs.
+ .md-footer {
+   box-shadow: none !important;
+   border-bottom: 0 !important;
+ }
+
+
+ /* Optional: remove left nav "feel" by reducing contract */   
+ .md-nav__title,
+ .md-nav__link {
+   font-weight: 400;
+ }
+
+ /* Optional: make headings simple */   
+ .md-typset h1, md-typset h2, md.md-typeset h3 {
+   font-weight: 600; 
+ }
